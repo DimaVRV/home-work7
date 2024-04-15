@@ -1,0 +1,11 @@
+a[href^="https"] {
+color: red;
+}
+body {
+   background-color: wheat;
+}
+
+.list p {
+    font-size: 24px;
+    color: blue;
+}
