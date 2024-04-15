@@ -5,7 +5,7 @@ body {
    background-color: wheat;
 }
 
-.list p {
+ul p {
     font-size: 24px;
     color: blue;
 }
